@@ -242,14 +242,8 @@ nav {
 
 nav .container {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   height: 6rem;
-  align-items: center;
-}
-
-.logo {
-  width: 165px;
-  display: flex;
   align-items: center;
 }
 
